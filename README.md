@@ -14,7 +14,8 @@ These days, in my spare time, I create fullstack web applications and tools to i
 * 🖥️  See my portfolio at [MMARKK.dev](http://mmarkk.dev)
 * ✉️  You can contact me at [mmarkk@xtra.co.nz](mailto:mmarkk@xtra.co.nz)
 * 🚀  I'm currently working on these [projects](http://mmarkk.dev/projects)
-* 🧠  I'm learning SvelteKit, TypeScript and Supabase
+* 🧠  I'm actively writing SvelteKit, TypeScript and Supabase web applications
+* 🧠  I'm currently learning the Rust programming language
 
 ### Skills
 
