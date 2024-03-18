@@ -4,7 +4,7 @@
 
 Mark McKenzie
 =====================================================================================================================================
-Operations Executive, Project Manager and Software Developer
+Operations Executive, Technology Developer and Systems Integrator
 ------------------------------------------------------------
 I have been coding since the early 80's. I have worked as a professional software developer, software project manager and IT integration project manager. Previously I have specialised in database software development and large custom data migrations for enterprise customers. 
 
@@ -14,8 +14,8 @@ These days, in my spare time, I create fullstack web applications and tools to i
 * 🖥️  See my portfolio at [MMARKK.dev](http://mmarkk.dev)
 * ✉️  You can contact me at [mmarkk@xtra.co.nz](mailto:mmarkk@xtra.co.nz)
 * 🚀  I'm currently working on these [projects](http://mmarkk.dev/projects)
-* 🧠  I'm actively writing SvelteKit, TypeScript and Supabase web applications
-* 🧠  I'm currently learning the Rust programming language
+* 🧠  I'm actively writing SvelteKit, TypeScript and Supabase web applications and Go applications
+* 🧠  I'm currently learning the Go programming language
 
 ### Skills
 
