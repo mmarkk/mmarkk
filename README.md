@@ -10,7 +10,7 @@ These days, in my spare time, I create fullstack web applications and tools to i
 -   🖥️  See my portfolio at [MMARKK.dev](http://mmarkk.dev)
 -   ✉️  You can contact me at [mmarkk@xtra.co.nz](mailto:mmarkk@xtra.co.nz)
 -   🚀  I'm currently working on these [projects](http://mmarkk.dev/projects)
--   🧠  I'm actively writing SvelteKit, TypeScript and Supabase web applications and Go applications
+-   🧠  I'm actively writing SvelteKit and Django web applications and Go applications to integrate data sources
 
 ### Skills
 
