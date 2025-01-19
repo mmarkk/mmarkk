@@ -23,7 +23,7 @@ You can check out the tools I use most often [here](https://mmarkk.dev/tools)
 
 <b>My GitHub Stats</b>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmarkk&show_icons=true&theme=dark&hide_border=true&icon_color=0891b2&title_color=0891b2&count_private=true&include_all_commits=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmarkk&show_icons=true&theme=dark&hide_border=true&icon_color=0891b2&title_color=0891b2&count_private=true&include_all_commits=true) -->
 
 [![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=mmarkk&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 
