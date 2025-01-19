@@ -4,14 +4,13 @@
 
 I have been coding since the early 80's. I have worked as a professional software developer, software project manager and IT integration project manager. Previously I have specialised in database software development and large custom data migrations for enterprise customers.
 
-These days, in my spare time, I create fullstack web applications and tools to improve business performance and reduce manual tasks across organisations. That is when I am not working my full time job as an Operations Manager.
+These days, in my spare time, I create fullstack web applications and tools to improve business performance and reduce manual tasks across organisations. I utilise the latest AI coding technologies to pump out quality code, applications and integrations. That is when I am not working my full time job as a Chief Technology and Operations Officer.
 
 -   🌍  I'm based in Christchurch, New Zealand
 -   🖥️  See my portfolio at [MMARKK.dev](http://mmarkk.dev)
 -   ✉️  You can contact me at [mmarkk@xtra.co.nz](mailto:mmarkk@xtra.co.nz)
 -   🚀  I'm currently working on these [projects](http://mmarkk.dev/projects)
--   🧠  I'm actively writing SvelteKit, TypeScript and Supabase web applications and Go applications
--   🧠  I'm currently learning the Go programming language
+-   🧠  I'm actively writing SvelteKit and Django web applications and Go applications to integrate data sources
 
 ### Skills
 
