@@ -23,4 +23,6 @@ You can check out the tools I use most often [here](https://mmarkk.dev/tools)
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mmarkk"><img src="https://streak-stats.demolab.com?user=mmarkk&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak Stats" /></a>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mmarkk&show_icons=true&theme=dark&hide_border=true&icon_color=0891b2&title_color=0891b2)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmarkk&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
