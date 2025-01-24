@@ -21,8 +21,9 @@ You can check out the tools I use most often [here](https://mmarkk.dev/tools)
 
 ### Socials<p align="left"> <a href="https://www.linkedin.com/in/mark-mckenzie-nz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p>My GitHub Stats</p>
+### My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-mmarkk.vercel.app?user=mmarkk&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-mmarkk.vercel.app?user=mmarkk&theme=transparent)](https://git.io/streak-stats)
+
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmarkk&theme=github-dark&hide_border=true&custom_title=Total%20Contributions&area=true)
