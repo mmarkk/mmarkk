@@ -1,6 +1,6 @@
 # Mark McKenzie
 
-## Operations Executive | Technology Developer and Systems Integrator | Perplexity Business Fellow
+## Chief Technology and Operations Officer | Perplexity Business Fellow | Tech Problem Solver
 
 I have been coding since the early 80's. I have worked as a professional software developer, software project manager and IT integration project manager. Previously I have specialised in database software development and large custom data migrations for enterprise customers.
 
