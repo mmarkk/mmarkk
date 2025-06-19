@@ -23,7 +23,7 @@ You can check out the tools I use most often [here](https://mmarkk.dev/tools)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/mark-mckenzie-nz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://bsky.app/profile/mmarkk.bsky.social" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="32" height="32" alt="Bluesky Logo" /></a>
+<!-- <a href="https://bsky.app/profile/mmarkk.bsky.social" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="32" height="32" alt="Bluesky Logo" /></a> -->
 </p>
 
 ### My GitHub Stats
