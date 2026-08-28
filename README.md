@@ -1,12 +1,12 @@
 # Mark McKenzie
 
-**Chief Technology and Operations Officer, Central Plains Water | Building software since the early 1980s**
+**Chief Technology and Operations Officer | Building software since the early 1980s**
 
 I have been writing software since the early 1980s. Professionally I have worked as a developer, a software project manager and an IT integration project manager, specialising in database development and large custom data migrations for enterprise customers.
 
-Today I run technology and operations at a Canterbury water utility, and I still build. Most of what I ship is operational software with real consequences: irrigation scheduling, dam safety, flood modelling, water quality, compliance decision support, and satellite imagery over the Rakaia and Waimakariri intakes. Backend APIs, the data underneath them, and the interfaces the people on the ground actually use.
+Today I run technology and operations at a Canterbury water utility, and I still build. Most of what I ship is operational software with real consequences: irrigation scheduling, dam safety, flood modelling, water quality, and compliance decision support. Backend APIs, the data underneath them, and the interfaces the people on the ground actually use.
 
-Most of my leverage now comes from AI-assisted engineering. Claude Code and Codex are part of a working method here, not an experiment, and I speak publicly about what that changes for a mid-sized organisation.
+Most of my leverage now comes from AI-assisted agentic engineering. Claude Code and Codex are part of a working method here, not an experiment, and I speak publicly about what that changes for a mid-sized organisation.
 
 - 🌍  Based in Christchurch, New Zealand
 - 🎓  Perplexity AI Business Fellow
